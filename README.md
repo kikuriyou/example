@@ -1,1 +1,0 @@
-# scipy_example
